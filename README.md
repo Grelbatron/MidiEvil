@@ -32,6 +32,6 @@ src code contains the sketch and libraries required to compile the code
 
 build document contains bill of materials, scheamtic, drill template and note
 
-user manual describes opertaion and configutataion fo the device
+user manual describes operation and configutataion fo the device
 
 updater.exe packages the current .hex, avrdude and a batch script to make uploading firmware easy if you aren't a programmer
