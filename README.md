@@ -33,8 +33,8 @@ https://www.youtube.com/watch?v=sFM_QdrGkPs
 
 src code contains the sketch and libraries required to compile the code
 
-build document contains bill of materials, scheamtic, drill template and note
+build document contains bill of materials, schematic, drill template and notes
 
-user manual describes operation and configutataion fo the device
+user manual describes operation and configurataion for the device
 
 updater.exe packages the current .hex, avrdude and a batch script to make uploading firmware easy if you aren't a programmer
