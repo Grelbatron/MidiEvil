@@ -4,6 +4,9 @@ Midi Loop Switcher built on an Arduino Nano
 
 MidiEvil is a dirt simple midi-controlled loop and amp switch. It’s been designed to be easy to configure and can be used with or without a midi controller.
 
+Here's a quick video walking through features and configuration:
+https://www.youtube.com/watch?v=sFM_QdrGkPs
+
 •	Switchable Input Buffer (Based on a Klon TL072)
 
 •	4 True Bypass Loops using good quality NEC Signal Relays (Switches 1 – 4)
